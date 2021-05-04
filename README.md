@@ -11,4 +11,4 @@ yarn start
 ```
      
 ## Webapp
-https://shopping-ii-frontend-dianebodin.netlify.app
+https://shopping-ii-dianebodin.netlify.app
